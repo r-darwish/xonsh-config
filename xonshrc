@@ -1,0 +1,3 @@
+$XONSH_COLOR_STYLE = 'fruity'
+$XONSH_SHOW_TRACEBACK = True
+$XONSH_TRACEBACK_LOGFILE = '/home/roey/.xonsh-tb'
